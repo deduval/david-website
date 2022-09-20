@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/david-website/static/css/main.baf07d77.css",
+    "main.js": "/david-website/static/js/main.a48ffc64.js",
+    "static/js/787.b804af02.chunk.js": "/david-website/static/js/787.b804af02.chunk.js",
+    "static/media/id-tech-logo.png": "/david-website/static/media/id-tech-logo.e0a4ce2ebcb81a967dff.png",
+    "static/media/clark-county-logo.png": "/david-website/static/media/clark-county-logo.e714d5c78fa919670e9a.png",
+    "static/media/cartoon-david.jpeg": "/david-website/static/media/cartoon-david.871f3b813dbefcc5337d.jpeg",
+    "static/media/Credit-One-Bank-logo.png": "/david-website/static/media/Credit-One-Bank-logo.ce278be083c49254dd77.png",
+    "static/media/jt4-logo.png": "/david-website/static/media/jt4-logo.cb4aab2ab26b2cfe6cc0.png",
+    "static/media/UNLV-logo.png": "/david-website/static/media/UNLV-logo.8e0a5bec2af084e8d5b6.png",
+    "static/media/westinis-logo.webp": "/david-website/static/media/westinis-logo.5a009b1380149a314f77.webp",
+    "static/media/hambuger-menu.svg": "/david-website/static/media/hambuger-menu.fe6f12716abd82481655cc01102f74dd.svg",
+    "index.html": "/david-website/index.html",
+    "main.baf07d77.css.map": "/david-website/static/css/main.baf07d77.css.map",
+    "main.a48ffc64.js.map": "/david-website/static/js/main.a48ffc64.js.map",
+    "787.b804af02.chunk.js.map": "/david-website/static/js/787.b804af02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baf07d77.css",
+    "static/js/main.a48ffc64.js"
+  ]
+}
