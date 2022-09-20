@@ -1,0 +1,30 @@
+.work-experience{
+    display: flex;
+    justify-content: center;
+    padding: 40px 15px 15px 0px;
+}
+.work-experience .title{
+    color: #00C9FF;
+    font-weight: 600;
+    font-size: larger;
+    margin-bottom: 20px;
+}
+.work-experience-content{
+    text-align: center;
+}
+.work-experience-card{
+    margin: 20px;
+}
+.work-experience-card-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+@media (max-width: 650px) {
+    .work-experience{
+        padding: 40px 0px 0px 0px;
+    }
+    .work-experience-card{
+        margin: 20px 0px;
+    }
+  }

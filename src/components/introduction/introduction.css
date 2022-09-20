@@ -1,0 +1,41 @@
+.introduction {
+  padding: 75px 15px;
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 1) 52%,
+    rgba(0, 201, 255, 1) 100%
+  );
+  color: white;
+}
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap-reverse;
+}
+.text-section {
+  max-width: 350px;
+  margin-right: 80px;
+}
+.title {
+  font-size: larger;
+}
+.sub-title {
+  font-size: small;
+}
+.cartoon-img {
+  height: 150px;
+}
+
+@media (max-width: 650px) {
+    .content{
+        text-align: center;
+    }
+    .cartoon-img{
+        margin-bottom: 15px;
+    }
+    .text-section {
+       margin: 0;
+      }
+  }
